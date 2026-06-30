@@ -1,12 +1,11 @@
 <h1 align="center">idehsMJ</h1>
 <h3 align="center">Full-Stack Dev -- Monitoring and Observability</h3>
 <p align="center">
-  Open to collaborations - got an interesting problem? Feel free to reach out
+  Open to collaborations - reach me out if you have an interesting problem.
 </p>
 <p align="center">
   <strong>maazjamshedi@gmail.com</strong><br>
   Mention my username along with yours in the email subject
-  (eg: idehsMJ-<your_username>)
 </p>
 
 ---
@@ -26,17 +25,17 @@
 <p align="center">
   <strong>Database</strong><br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql" />
-  ![MSSQL]( https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white )
+  <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-<p align="center">  
+<p align="center">
   <strong>Monitoring and Observability</strong><br>
-  <img src="https://skillicons.dev/icons?i=elasticsearch" />
-  ![Datadog]( https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white ) 
+  <img src="https://skillicons.dev/icons?i=elasticsearch,logstash,kibana" />
+  <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <em>Open to backend, full-stack, and infrastructure projects — I await your email</em>
+  <em>Open to backend, full-stack, and infrastructure projects — feel free to email me.</em>
 </p>
