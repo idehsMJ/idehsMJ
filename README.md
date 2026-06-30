@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @idehsMJ
-- 👀 I’m interested in web dev and AI
-- 
-<!--
-notes
--->
-<!---
-idehsMJ/idehsMJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">idehsMJ</h1>
+<h3 align="center">Full-Stack Dev -- Monitoring and Observability</h3>
+<p align="center">
+  Open to collaborations - got an interesting problem? Feel free to reach out
+</p>
+<p align="center">
+  <strong>maazjamshedi@gmail.com</strong><br>
+  Mention my username along with yours in the email subject
+  (eg: idehsMJ-<your_username>)
+</p>
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <strong>Frontend</strong><br>
+  <img src="https://skillicons.dev/icons?i=react,vue" />
+</p>
+
+<p align="center">
+  <strong>Backend</strong><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,php,laravel,cpp" />
+</p>
+
+<p align="center">
+  <strong>Database</strong><br>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql" />
+</p>
+
+<p align="center">  
+  <strong>Monitoring and Observability</strong><br>
+  <img src="https://skillicons.dev/icons?i=elasticsearch,logstash,kibana,datadog" />
+</p>
+
+---
+
+<p align="center">
+  <em>Open to backend, full-stack, and infrastructure projects — I await your email</em>
+</p>
