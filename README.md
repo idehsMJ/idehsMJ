@@ -25,12 +25,14 @@
 
 <p align="center">
   <strong>Database</strong><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mssql" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" />
+  ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 </p>
 
 <p align="center">  
   <strong>Monitoring and Observability</strong><br>
-  <img src="https://skillicons.dev/icons?i=elasticsearch,logstash,kibana,datadog" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" />
+  ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
 </p>
 
 ---
