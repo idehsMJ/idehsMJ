@@ -30,7 +30,9 @@
 
 <p align="center">
   <strong>Monitoring and Observability</strong><br>
-  <img src="https://skillicons.dev/icons?i=elasticsearch,logstash,kibana" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" />
+  <img src="https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white" />
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
 </p>
 
